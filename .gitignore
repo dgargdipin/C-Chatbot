@@ -2,6 +2,7 @@
 Doxyfile
 html/**
 latex/**
+build/**
 # Prerequisites
 *.d
 

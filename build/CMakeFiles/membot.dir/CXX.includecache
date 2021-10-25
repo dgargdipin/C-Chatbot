@@ -6,10 +6,44 @@
 
 #IncludeRegexTransform: 
 
+/home/dgargdipin/devLinux/CppND-Memory-Management-Chatbot/src/chatbot.cpp
+algorithm
+-
+ctime
+-
+iostream
+-
+random
+-
+chatbot.h
+/home/dgargdipin/devLinux/CppND-Memory-Management-Chatbot/src/chatbot.h
+chatlogic.h
+/home/dgargdipin/devLinux/CppND-Memory-Management-Chatbot/src/chatlogic.h
+graphedge.h
+/home/dgargdipin/devLinux/CppND-Memory-Management-Chatbot/src/graphedge.h
+graphnode.h
+/home/dgargdipin/devLinux/CppND-Memory-Management-Chatbot/src/graphnode.h
+
 /home/dgargdipin/devLinux/CppND-Memory-Management-Chatbot/src/chatbot.h
 wx/bitmap.h
 -
 string
+-
+
+/home/dgargdipin/devLinux/CppND-Memory-Management-Chatbot/src/chatgui.cpp
+chatgui.h
+/home/dgargdipin/devLinux/CppND-Memory-Management-Chatbot/src/chatgui.h
+chatbot.h
+/home/dgargdipin/devLinux/CppND-Memory-Management-Chatbot/src/chatbot.h
+chatlogic.h
+/home/dgargdipin/devLinux/CppND-Memory-Management-Chatbot/src/chatlogic.h
+string
+-
+wx/colour.h
+-
+wx/filename.h
+-
+wx/image.h
 -
 
 /home/dgargdipin/devLinux/CppND-Memory-Management-Chatbot/src/chatgui.h
@@ -19,28 +53,28 @@ wx/wx.h
 -
 
 /home/dgargdipin/devLinux/CppND-Memory-Management-Chatbot/src/chatlogic.cpp
-fstream
+algorithm
 -
-sstream
+fstream
 -
 iostream
 -
-vector
--
 iterator
+-
+sstream
 -
 tuple
 -
-algorithm
+vector
 -
-graphedge.h
-/home/dgargdipin/devLinux/CppND-Memory-Management-Chatbot/src/graphedge.h
-graphnode.h
-/home/dgargdipin/devLinux/CppND-Memory-Management-Chatbot/src/graphnode.h
 chatbot.h
 /home/dgargdipin/devLinux/CppND-Memory-Management-Chatbot/src/chatbot.h
 chatlogic.h
 /home/dgargdipin/devLinux/CppND-Memory-Management-Chatbot/src/chatlogic.h
+graphedge.h
+/home/dgargdipin/devLinux/CppND-Memory-Management-Chatbot/src/graphedge.h
+graphnode.h
+/home/dgargdipin/devLinux/CppND-Memory-Management-Chatbot/src/graphnode.h
 
 /home/dgargdipin/devLinux/CppND-Memory-Management-Chatbot/src/chatlogic.h
 vector
@@ -50,11 +84,23 @@ string
 chatgui.h
 /home/dgargdipin/devLinux/CppND-Memory-Management-Chatbot/src/chatgui.h
 
+/home/dgargdipin/devLinux/CppND-Memory-Management-Chatbot/src/graphedge.cpp
+graphnode.h
+/home/dgargdipin/devLinux/CppND-Memory-Management-Chatbot/src/graphnode.h
+graphedge.h
+/home/dgargdipin/devLinux/CppND-Memory-Management-Chatbot/src/graphedge.h
+
 /home/dgargdipin/devLinux/CppND-Memory-Management-Chatbot/src/graphedge.h
 vector
 -
 string
 -
+
+/home/dgargdipin/devLinux/CppND-Memory-Management-Chatbot/src/graphnode.cpp
+graphnode.h
+/home/dgargdipin/devLinux/CppND-Memory-Management-Chatbot/src/graphnode.h
+graphedge.h
+/home/dgargdipin/devLinux/CppND-Memory-Management-Chatbot/src/graphedge.h
 
 /home/dgargdipin/devLinux/CppND-Memory-Management-Chatbot/src/graphnode.h
 vector
@@ -63,6 +109,8 @@ string
 -
 chatbot.h
 /home/dgargdipin/devLinux/CppND-Memory-Management-Chatbot/src/chatbot.h
+memory
+-
 
 /usr/local/include/wx-3.1/wx/accel.h
 wx/defs.h
